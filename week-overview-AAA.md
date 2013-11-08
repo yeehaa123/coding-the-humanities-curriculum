@@ -62,7 +62,7 @@ interface, sensor, discrete, analogue, standard in/out/error, pipe, filter, conv
 + digital versus gradual distinctions
 + user experience / user interaction
 + physical computing
-+ digital: text is image is sound
++ text = image = sound
 
 
 ## Session 6: Functions and Objects
@@ -99,5 +99,5 @@ assemblage, montage, bricolage, api, rest, pipe
 ### Overview
 
 + artistic practices of composition
-+ what is an assemblage / dispotif
-+ using (rest) api's to construe complex systems
++ what is an assemblage / dispotif?
++ using (rest) api's to create complex systems
