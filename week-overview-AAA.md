@@ -14,7 +14,7 @@ production, consumption, editor, server, client, browser, interface, console, au
 ## Session 2: Language
 
 ### Concepts
-natural language, artificial language, speech acts, markup, performativity, code, event, procedure
+natural language, artificial language, speech acts, markup, performativity, code, event, procedure, ambiguity
 
 ### Overview
 + language in the humanities and programming
@@ -40,7 +40,7 @@ substitution, linguistics, computation, signs, metaphors, metonym, poetics, form
 ## Session 4: Flow 
 
 ### Concepts
-state, machine, cybernetics, empty space, determinism, freedom, streams, loops
+state, machine, cybernetics, empty space, determinism, freedom, streams, loops, iteration
 
 ### Overview
 
@@ -62,6 +62,7 @@ interface, sensor, discrete, analogue, standard in/out/error, pipe, filter, conv
 + digital versus gradual distinctions
 + user experience / user interaction
 + physical computing
++ digital: text is image is sound
 
 
 ## Session 6: Functions and Objects
@@ -93,7 +94,7 @@ perspective, vanishing point, point of view, subjectivity
 ## Session 8: Modularity
 
 ### Concepts
-assemblage, montage, bricolage, api, rest
+assemblage, montage, bricolage, api, rest, pipe
 
 ### Overview
 
