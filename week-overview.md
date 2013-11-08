@@ -2,9 +2,9 @@
 
 ## 1. Tools
 
-*Concepts*: Tools, Bricolage, Editor, Server, Browser, Interface, Console, Automation, Crafts, Engineering
+*Concepts:* Produces, Consumer, Editor, Server, Browser, Interface, Console, Automation, Crafts, Engineering
 
-The introductory session of this course is dedicated to the tools that we use in the humanities.
+Tools shape and transform our research and learning. This introductory session critically looks at the digital tools that we use in the humanities. 
 
 
 ## 2. Language
@@ -22,12 +22,7 @@ We deepen our understanding performativity of code through some code exercises i
 
 ## 2. Variable
 
-+ substition
-+ linguistics
-+ metaphor
-+ metonym
-+ formalism
-+ (post)structuralism
+*Concepts:* Substition, Linguistics, Poetics, Formalism, Structuralism
 
 
 ## 3. Flow Control
